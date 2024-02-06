@@ -1,0 +1,22 @@
+Welcome to the ESP32 RC Car project on GitHub! This exciting endeavor merges the versatility of the ESP32 microcontroller with the thrill of remote-controlled cars. Designed for hobbyists and enthusiasts, this project explores the potential of wireless communication, sensor integration, and precise motor control. The ESP32's integrated Wi-Fi and Bluetooth features empower users to effortlessly control the RC car using smartphones or other devices, providing an engaging and interactive experience. Join us in this journey of innovation, tinkering, and remote-controlled fun as we navigate the world of ESP32-powered RC cars. Happy coding!
+
+Items Required:
+
+- ESP32
+2 Motors
+L298 Motor Driver
+Two 3.7V Batteries
+Battery Holder
+RC Car Chassis
+1 Free-Rotating Wheel
+Small Breadboard (optional)
+Jumper Wires
+You can also opt for an RC kit, which includes the following components:
+
+Chassis
+Free-Rotating Wheel
+One-way Switch
+3 1.5V Battery Holder
+2 Motors
+
+
